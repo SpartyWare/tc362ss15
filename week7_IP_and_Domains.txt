@@ -1,0 +1,7 @@
+#My IP for both domains
+104.236.101.68
+
+
+#My two different domains
+www.spartyware.me
+sub.spartyware.me
